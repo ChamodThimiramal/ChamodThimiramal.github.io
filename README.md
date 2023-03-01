@@ -1,2 +1,2 @@
-# ChamodThimiramal.gitub.io
+# ChamodThimiramal.github.io
 frelancer
